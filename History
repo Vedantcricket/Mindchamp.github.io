@@ -1,1 +1,60 @@
-v
+<!DOCTYPE html>
+<html>
+<head lang="en-GB" dir="ltr">
+<meta charset="utf-8">
+<title>Website Demo Page using HTML5</title>
+</head>
+<body style="font-family:Lucida Console;">
+<header style="background:#E8EEF2;">
+<center> <h1 style="font-family:Georgia;">Oktoberfest</h1>
+<h2><ul>
+   <li style="display:inline-block;"><a href="index.html">Home</a>|</li>
+  <li style="display:inline-block;"><a href="planets.html">History</a>|</li>
+  <li style="display:inline-block;"><a href= "mars.html">How to celebrate</a>|</li>
+  <li style="display:inline-block;"><a href = "links.html">Gallery</a>|</li>
+ 
+  
+</ul></h2></center> </header>
+<hr/>
+<section>
+  <marquee bgcolor="#DAA520"><h3>The bold history of Oktober goes back to the 1810</h3></marquee>
+  
+    <h2> History of Oktoberfest ?</h2>
+<p> Kronprinz Ludwig (1786–1868), later King Ludwig I (reign: 1825–1848),
+married Princess Therese of Saxe-Hildburghausen on 12 October 1810.
+The citizens of Munich were invited to attend the festivities held on the fields in front of the city gates to celebrate the royal event. 
+The fields were named "Theresienwiese" ("Theresa's Meadow") in honor of the Crown Princess,
+and have kept that name ever since, although the locals have abbreviated the name simply to Wiesn.
+Horse races, in the tradition of the 15th-century Scharlachrennen ("Scarlet Race at Karlstor"),
+were held on 18 October to honor the newlyweds. It is widely believed that Andreas Michael Dall'Armi, 
+a major in the National Guard, proposed the idea. However, the origins of the horse races, and Oktoberfest itself, 
+may have stemmed from proposals offered by Franz Baumgartner,
+a coachman and sergeant in the National Guard. 
+The precise origins of the festival and horse races remain a matter of controversy. 
+However, the decision to repeat the horse races, spectacles,
+and celebrations in 1811 launched what is now the annual Oktoberfest tradition.
+
+The fairground, once outside the city,
+was chosen due to its natural suitability, 
+which it still holds today. 
+The Sendlinger Hill (today Theresienhohe) was used as a grandstand for 40,000 race spectators.
+The festival grounds remained undeveloped, except for the king's tent. 
+The tastings of "Traiteurs" and other wine and beer took place above the visitors in the stands on the hill. 
+Before the race started, 
+a performance was held in homage to the bridegroom and of the royal family in the form of a train of 16 pairs of children dressed in Wittelsbach costumes, 
+and costumes from the nine Bavarian townships and other regions. 
+This was followed by the punishing race with 30 horses on a 3,400 meters (11,200 ft) long racetrack,
+and concluded with the singing of a student choir.
+The first horse to cross the finish line belonged to Franz Baumgartner (one of the purported festival initiators).
+Horse racing champion and Minister of State Maximilian von Montgelas presented Baumgartner with his gold medal.
+ </p>
+   
+<div style="text-align:center;width:100%;"><img src="https://www.bing.com/images/search?view=detailV2&ccid=G4jxVM25&id=2671350419E85E6260F748C3E87761DB7E670752&thid=OIP.G4jxVM25OLkAsRAF_040IwHaE8&mediaurl=https%3a%2f%2fwww.winemag.com%2fwp-content%2fuploads%2f2022%2f09%2f09_22_8_Things_to_Know_About_Oktoberfest_INSET_SOCIALFALLBACK_GettyImages-dv574025_1920X1280.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1b88f154cdb938b900b11005ff4e3423%3frik%3dUgdnftthd%252bjDSA%26pid%3dImgRaw%26r%3d0&exph=1280&expw=1920&q=oktoberfest&simid=607992577527930014&FORM=IRPRST&ck=7A60B4D18A02DFD372680B0F3E2A4008&selectedIndex=1&itb=0"></div>
+</section>
+<br>
+<br>
+<footer style ="background:#E8EEF2;"> <i><center>This website is made by Vedant with the help of Mindchamp and Wikepida</center></i>
+</footer>
+</body>
+</html>
+
