@@ -9,9 +9,9 @@
 <center> <h1 style="font-family:Georgia;">Oktoberfest</h1>
 <h2><ul>
    <li style="display:inline-block;"><a href="index.html">Home</a>|</li>
-  <li style="display:inline-block;"><a href="planets.html">History</a>|</li>
-  <li style="display:inline-block;"><a href= "mars.html">How to celebrate</a>|</li>
-  <li style="display:inline-block;"><a href = "links.html">Gallery</a>|</li>
+  <li style="display:inline-block;"><a href="History.html">History</a>|</li>
+  <li style="display:inline-block;"><a href= "How to celebrate.html">How to celebrate</a>|</li>
+  <li style="display:inline-block;"><a href = "Pictures of celebration.html">Gallery</a>|</li>
  
   
 </ul></h2></center> </header>
